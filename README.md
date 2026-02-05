@@ -11,7 +11,7 @@ Any advice is greatly appreciated.
 </br>
 <h3>Working/Procrastinating on:</h3>
 <ul>
-  <li>Security Tool Kit (Cryptography)</li>
+  <li>Weather Application (trust da process)</li>
 </ul>
 
 <h3><em>Thanks for checking out my profile!</em></h3>
