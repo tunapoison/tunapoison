@@ -1,19 +1,31 @@
 <!DOCTYPE html>
 <h1>I'm Poison!</h1>
+
 I'm using <strong>GitHub</strong> in order to track my progress while I learn programming.
-<br>
-</br>
-I'm currently learning <strong>Python</strong>.
-<br>
-</br>
+
+I'm not excellent at math but I find it beautiful.
+
+I want to show others the beauty and the importance of it in our world.
+
+I'm starting off with the basics and hoping to later on be able to execute meaningful and interesting projects.
+
 Any advice is greatly appreciated.
+
+<br>
+</br>
+
+![divider-food](https://github.com/user-attachments/assets/213caa49-4f81-4c42-8976-f33b8a3d8f98)
 <br>
 </br>
 <h3>Working/Procrastinating on:</h3>
 <ul>
-  <li>Weather Application (trust da process)</li>
+  <li>pondering...</li>
 </ul>
+<br>
+</br>
+
+
 
 <h3><em>Thanks for checking out my profile!</em></h3>
 
-<img src="https://media.tenor.com/jBVLTOHrQwgAAAAM/vocaloid-megurine-luka.gif" alt="Cat giving a thumbs up" width="300" style="padding: 10px;">
+![miku-vocaloid](https://github.com/user-attachments/assets/cd6b0a46-160f-4202-beb0-e522ea19d425)
