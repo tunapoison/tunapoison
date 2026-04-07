@@ -21,11 +21,15 @@ Any advice is greatly appreciated.
 <ul>
   <li>pondering...</li>
 </ul>
+
+<h3>Discord -> tunapoison</h3>
+
+<p align="left">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" width="75" height="75">
+</p>
+
 <br>
 </br>
-
-
-
 <h3><em>Thanks for checking out my profile!</em></h3>
 
 ![miku-vocaloid](https://github.com/user-attachments/assets/cd6b0a46-160f-4202-beb0-e522ea19d425)
