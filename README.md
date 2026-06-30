@@ -3,10 +3,6 @@
 
 I'm using <strong>GitHub</strong> in order to track my progress while I learn programming.
 
-I'm not excellent at math but I find it beautiful.
-
-I want to show others the beauty and the importance of it in our world.
-
 I'm starting off with the basics and hoping to later on be able to execute meaningful and interesting projects.
 
 Any advice is greatly appreciated.
