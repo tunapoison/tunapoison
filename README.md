@@ -15,7 +15,7 @@ Any advice is greatly appreciated.
 </br>
 <h3>Working/Procrastinating on:</h3>
 <ul>
-  <li>pondering...</li>
+  <li>Dungeon Crawler</li>
 </ul>
 
 <h3>Discord -> tunapoison</h3>
@@ -27,5 +27,3 @@ Any advice is greatly appreciated.
 <br>
 </br>
 <h3><em>Thanks for checking out my profile!</em></h3>
-
-![miku-vocaloid](https://github.com/user-attachments/assets/cd6b0a46-160f-4202-beb0-e522ea19d425)
