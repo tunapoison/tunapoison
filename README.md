@@ -10,7 +10,8 @@ Any advice is greatly appreciated.
 <br>
 </br>
 
-![divider-food](https://github.com/user-attachments/assets/213caa49-4f81-4c42-8976-f33b8a3d8f98)
+<img width="250" height="25" alt="page-divider-glittery" src="https://github.com/user-attachments/assets/10d8c5ba-a564-4af8-aca1-1aaad643d56f" />
+
 <br>
 </br>
 <h3>Working/Procrastinating on:</h3>
@@ -18,7 +19,9 @@ Any advice is greatly appreciated.
   <li>Dungeon Crawler</li>
 </ul>
 
-<h3>Discord -> tunapoison</h3>
+## Discord 
+
+<h3><a href="https://discord.com/users/848981524648820769">tunapoison</a></h3>
 
 <p align="left">
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" width="75" height="75">
